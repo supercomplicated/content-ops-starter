@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'hi, we are supercomplicated'
+      text: "AI is\_ supercomplicated"
       color: text-dark
       type: TitleBlock
     subtitle: Superintelligence is super complicated. We make it easy to use.
