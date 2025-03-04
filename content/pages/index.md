@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      Superintelligence is super complicated. We make it easy to understand and
+      Super intelligence is super complicated. We make it easy to understand and
       use.
     text: >
       SuperIntelligence can be super complicated but it doesn't have to be. We
