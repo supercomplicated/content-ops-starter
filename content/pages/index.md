@@ -65,10 +65,9 @@ sections:
         subtitle: >-
           Enable your customers to get answers, solve problems, and take action
           through a natural, conversational experience.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Engage and delight customers: Deploy an AI agent that is always
+          available, empathetic, and aligned to your brand tone and voice.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
