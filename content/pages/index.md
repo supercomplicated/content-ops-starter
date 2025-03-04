@@ -169,7 +169,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Our users love our apps
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
