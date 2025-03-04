@@ -1,10 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/DALL·E 2025-03-04 00.48.18 - A playful and colorful company logo for 'SuperComplicated'. The design should feature bold, vibrant colors like blue, red, yellow, and green. The typo.webp",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
