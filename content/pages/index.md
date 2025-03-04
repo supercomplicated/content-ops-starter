@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: We make complicated stuff easy to use
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      AI can be super complicated but it doesn't have to be. We build apps that
+      make it real simple for users to enjoy super complicated AI tech.
     actions:
       - label: Get started
         altText: ''
