@@ -90,7 +90,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: AI just got personal
         subtitle: The Job Stuff
         text: ''
         image:
