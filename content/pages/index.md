@@ -170,7 +170,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Our users love our app
+  - subtitle: ''
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
