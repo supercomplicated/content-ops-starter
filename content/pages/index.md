@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Putting Superintelligence to work
     items:
       - type: FeaturedItem
         title: Transform your customer experience
