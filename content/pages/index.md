@@ -11,10 +11,10 @@ sections:
       Super intelligence is super complicated. We make it easy to understand and
       use.
     text: >
-      Super intelligence can be super complicated but it doesn't have to be. We
-      build models, apps and services that make it real simple for users to
-      enjoy super complicated AI tech to make every day living more productive,
-      fun and easier.
+      Super intelligence is super complicated, and our mission is to make it
+      easy. We build models, apps and services that make it real simple for
+      users to enjoy super complicated AI tech to make every day living more
+      productive, fun and easier.
     actions:
       - label: See Case Studies
         altText: ''
