@@ -16,15 +16,6 @@ sections:
       complicated AI tech to make every day living more productive, fun and
       easier.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Case Studies
         altText: ''
         url: /
