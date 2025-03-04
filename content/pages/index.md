@@ -94,10 +94,8 @@ sections:
       - title: 20x
         subtitle: The Job Stuff
         text: >
-          Engage and delight customers
-
-          Deploy an AI agent that is always available, empathetic, and aligned
-          to your brand tone and voice.
+          Engage and delight customers: Deploy an AI agent that is always
+          available, empathetic, and aligned to your brand tone and voice.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
