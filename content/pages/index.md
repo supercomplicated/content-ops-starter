@@ -65,9 +65,7 @@ sections:
         subtitle: >-
           Enable your customers to get answers, solve problems, and take action
           through a natural, conversational experience.
-        text: >
-          Engage and delight customers: Deploy an AI agent that is always
-          available, empathetic, and aligned to your brand tone and voice.
+        text: ''
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
