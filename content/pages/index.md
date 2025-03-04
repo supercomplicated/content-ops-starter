@@ -116,10 +116,12 @@ sections:
         type: FeaturedItem
       - title: Safe and secure
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Designed with the highest commitment to trust, security, and
+          compliance. Your AI agent won't pretend to be something it’s not, and
+          it will be honest about its limitations.
+
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
