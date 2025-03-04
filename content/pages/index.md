@@ -92,7 +92,9 @@ sections:
         subtitle: The Job Stuff
         text: >
           Our conversational AI platform enables your company to build an AI
-          agent that is personalized to your business and customers.
+          agent that is personalized to your business and customers. Engage and
+          delight customers. Deploy an AI agent that is always available,
+          empathetic, and aligned to your brand tone and voice.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
