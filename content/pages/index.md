@@ -115,7 +115,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Safe and secure
-        subtitle: Faster
+        subtitle: ''
         text: >+
           Designed with the highest commitment to trust, security, and
           compliance. Your AI agent won't pretend to be something it’s not, and
