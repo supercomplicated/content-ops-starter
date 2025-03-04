@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Supercomplicated
+      text: 'Hi, we are Supercomplicated'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
