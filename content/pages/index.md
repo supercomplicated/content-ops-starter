@@ -52,7 +52,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Supercomplicated stuff got easy
+      text: Supercomplicated AI made easy
       color: text-dark
       styles:
         self:
