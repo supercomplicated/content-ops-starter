@@ -145,7 +145,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: What we do
+      label: mission
       color: text-primary
       styles:
         self:
