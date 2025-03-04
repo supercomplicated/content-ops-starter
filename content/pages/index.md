@@ -62,7 +62,9 @@ sections:
     items:
       - type: FeaturedItem
         title: Transform your customer experience
-        subtitle: Numbers Done
+        subtitle: >-
+          Enable your customers to get answers, solve problems, and take action
+          through a natural, conversational experience.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
