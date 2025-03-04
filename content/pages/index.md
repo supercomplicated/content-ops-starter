@@ -7,7 +7,7 @@ sections:
       text: 'hi, we are supercomplicated'
       color: text-dark
       type: TitleBlock
-    subtitle: We make complicated stuff easy to use
+    subtitle: We build apps that make complicated AI stuff easy to use
     text: >
       AI can be super complicated but it doesn't have to be. We build apps that
       make it real simple for users to enjoy super complicated AI tech.
