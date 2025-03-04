@@ -89,7 +89,7 @@ sections:
             self:
               borderRadius: x-large
       - title: AI just got personal
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >
           Our conversational AI platform enables your company to build an AI
           agent that is personalized to your business and customers. Engage and
