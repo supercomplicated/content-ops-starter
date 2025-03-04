@@ -63,7 +63,9 @@ sections:
       - type: FeaturedItem
         title: Transform your customer experience
         subtitle: ''
-        text: ''
+        text: >
+          Enable your customers to get answers, solve problems, and take action
+          through a natural, conversational experience.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
