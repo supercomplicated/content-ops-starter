@@ -151,7 +151,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: SOLUTIONS
+      label: What we do
       color: text-primary
       styles:
         self:
